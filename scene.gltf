@@ -1,0 +1,5174 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v1.0.5",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                610
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "name" : "ITSCAM600_LM55_BODY_1018__2"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1019__3"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1027__4"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1030__5"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1033__6"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1034__7"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1042__8"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1049__9"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1057__10"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1161__11"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1177__12"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1178__13"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1181__14"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1201__15"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1207__16"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1208__17"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1214__18"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1221__19"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1222__20"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1228__21"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1231__22"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1235__23"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1243__24"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1673__25"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1674__26"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1683__27"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1685__28"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1686__29"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1687__30"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1689__31"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1690__32"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1691__33"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1692__34"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1694__35"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1697__36"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1698__37"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1699__38"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1701__39"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1703__40"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1706__41"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1707__42"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1709__43"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1710__44"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1711__45"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1712__46"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1714__47"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1715__48"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1716__49"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1718__50"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1719__51"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1720__52"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1721__53"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1722__54"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1725__55"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1726__56"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1727__57"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1728__58"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1730__59"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1731__60"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1732__61"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1733__62"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1734__63"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1735__64"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1736__65"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1737__66"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1738__67"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1739__68"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1740__69"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1741__70"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1742__71"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1743__72"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1744__73"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1745__74"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1746__75"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1747__76"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1748__77"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1749__78"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1750__79"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1751__80"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1752__81"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1753__82"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1754__83"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1755__84"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1756__85"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1757__86"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1758__87"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1759__88"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1760__89"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1761__90"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1762__91"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1763__92"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1764__93"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1765__94"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1766__95"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1767__96"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1768__97"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1771__98"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1772__99"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1773__100"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1774__101"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1775__102"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1776__103"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1777__104"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1778__105"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1779__106"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1781__107"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1782__108"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1783__109"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1784__110"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1785__111"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1786__112"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1787__113"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1788__114"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1789__115"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1790__116"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1791__117"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1792__118"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1793__119"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1794__120"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1795__121"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1796__122"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1797__123"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1798__124"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1799__125"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1800__126"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1801__127"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1802__128"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1803__129"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1804__130"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1805__131"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1806__132"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1817__133"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1818__134"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1820__135"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1822__136"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1823__137"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1824__138"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1825__139"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1826__140"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1827__141"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1828__142"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1829__143"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1830__144"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1831__145"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1837__146"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1838__147"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1839__148"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1841__149"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1842__150"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1843__151"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1844__152"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1845__153"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1846__154"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1847__155"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1848__156"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1849__157"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1850__158"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1851__159"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1852__160"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1853__161"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1854__162"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1855__163"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1856__164"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1857__165"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1858__166"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1859__167"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1860__168"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1861__169"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1862__170"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1863__171"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1864__172"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1865__173"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1866__174"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1867__175"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1868__176"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1869__177"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1870__178"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1871__179"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1872__180"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1873__181"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1874__182"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1875__183"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1876__184"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1877__185"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1878__186"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1879__187"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1880__188"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1881__189"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1882__190"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1883__191"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1884__192"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1885__193"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1886__194"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1887__195"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1888__196"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1889__197"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1890__198"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1891__199"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1892__200"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1893__201"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1894__202"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1895__203"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1896__204"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1897__205"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1898__206"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1899__207"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1900__208"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1901__209"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1902__210"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1903__211"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1904__212"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1905__213"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1906__214"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1907__215"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1908__216"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1909__217"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1910__218"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1911__219"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1912__220"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1913__221"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1914__222"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1915__223"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1916__224"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1917__225"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1918__226"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1919__227"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1920__228"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1921__229"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1922__230"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1923__231"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1924__232"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1925__233"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1926__234"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1927__235"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1928__236"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1929__237"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1930__238"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1931__239"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1932__240"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1933__241"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1934__242"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1935__243"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1936__244"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1937__245"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1938__246"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1939__247"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1940__248"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1941__249"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1947__250"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1951__251"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1952__252"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1953__253"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1954__254"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1955__255"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1956__256"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1957__257"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1958__258"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1962__259"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1964__260"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1965__261"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1967__262"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1968__263"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1969__264"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1970__265"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1971__266"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1972__267"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1973__268"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1974__269"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1975__270"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1976__271"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1977__272"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1978__273"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1979__274"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1980__275"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1981__276"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1983__277"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1984__278"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1986__279"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1987__280"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1988__281"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1989__282"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1990__283"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1992__284"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1993__285"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1994__286"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1995__287"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1996__288"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1997__289"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1998__290"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_1999__291"
+        },
+        {
+            "mesh" : 0,
+            "name" : "Object_587"
+        },
+        {
+            "children" : [
+                290
+            ],
+            "name" : "ITSCAM600_LM55_BODY_1__292"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2000__293"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2001__294"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2003__295"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2004__296"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2005__297"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2006__298"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2007__299"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2009__300"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2010__301"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2011__302"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2012__303"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2013__304"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2014__305"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2015__306"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2016__307"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2017__308"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2018__309"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2019__310"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2020__311"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2021__312"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2022__313"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2023__314"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2024__315"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2025__316"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2026__317"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2027__318"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2028__319"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2029__320"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2030__321"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2031__322"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2032__323"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2033__324"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2034__325"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2035__326"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2036__327"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2037__328"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2038__329"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2039__330"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2040__331"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2041__332"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2042__333"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2043__334"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2044__335"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2045__336"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2046__337"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2047__338"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2048__339"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2049__340"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2050__341"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2051__342"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2052__343"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2053__344"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2054__345"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2055__346"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2056__347"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2057__348"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2058__349"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2059__350"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2060__351"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2061__352"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2062__353"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2063__354"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2064__355"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2065__356"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2066__357"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2067__358"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2068__359"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2069__360"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2070__361"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2071__362"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2072__363"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2083__364"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2084__365"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2088__366"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2089__367"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2093__368"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2095__369"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2096__370"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2097__371"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2098__372"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2099__373"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2100__374"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2101__375"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2102__376"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2106__377"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2107__378"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2108__379"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2109__380"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2110__381"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2113__382"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2114__383"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2115__384"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2116__385"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2117__386"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2118__387"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2119__388"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2120__389"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2121__390"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2123__391"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2124__392"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2125__393"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2126__394"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2127__395"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2128__396"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2130__397"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2131__398"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2132__399"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2135__400"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2136__401"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2137__402"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2138__403"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2139__404"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2140__405"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2141__406"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2142__407"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2143__408"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2144__409"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2145__410"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2146__411"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2147__412"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2148__413"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2149__414"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2150__415"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2151__416"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2152__417"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2153__418"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2154__419"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2155__420"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2156__421"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2157__422"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2158__423"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2159__424"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2160__425"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2161__426"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2162__427"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2163__428"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2164__429"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2165__430"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2166__431"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2167__432"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2168__433"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2169__434"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2170__435"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2171__436"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2172__437"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2173__438"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2174__439"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2175__440"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2176__441"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2177__442"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2178__443"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2179__444"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2180__445"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2181__446"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2182__447"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2183__448"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2184__449"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2185__450"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2186__451"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2187__452"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2188__453"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2189__454"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2190__455"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2191__456"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2192__457"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2193__458"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2194__459"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2195__460"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2196__461"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2197__462"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2198__463"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2199__464"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2200__465"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2201__466"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2202__467"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2203__468"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2204__469"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2205__470"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2206__471"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2207__472"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2208__473"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2209__474"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2210__475"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2217__476"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2218__477"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2219__478"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2222__479"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2227__480"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2228__481"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2231__482"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2232__483"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2233__484"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2234__485"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2235__486"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2236__487"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2239__488"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2240__489"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2241__490"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2245__491"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2246__492"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2247__493"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2248__494"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2252__495"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2253__496"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2255__497"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2256__498"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2257__499"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2258__500"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2261__501"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2262__502"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2263__503"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2264__504"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2265__505"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2266__506"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2267__507"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2268__508"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2269__509"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2270__510"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2273__511"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2275__512"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2276__513"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2277__514"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2278__515"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2279__516"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2280__517"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2281__518"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2282__519"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2283__520"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2284__521"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2285__522"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2286__523"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2287__524"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2288__525"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2289__526"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2290__527"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2291__528"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2292__529"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2293__530"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2294__531"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2295__532"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2296__533"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2297__534"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2298__535"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2299__536"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2300__537"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2301__538"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2302__539"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2303__540"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2304__541"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2305__542"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2306__543"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2307__544"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2308__545"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2309__546"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2310__547"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2311__548"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2312__549"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2313__550"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2314__551"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2315__552"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2316__553"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2317__554"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2318__555"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2319__556"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2320__557"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2321__558"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2322__559"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2323__560"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2324__561"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2325__562"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2326__563"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2327__564"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2328__565"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2329__566"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2330__567"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2331__568"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2332__569"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2333__570"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2334__571"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2335__572"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2336__573"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2337__574"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2338__575"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2339__576"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2340__577"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2341__578"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2342__579"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2343__580"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2344__581"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2345__582"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2346__583"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2347__584"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2349__585"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2350__586"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2351__587"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2352__588"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2354__589"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2355__590"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2356__591"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2357__592"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2358__593"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2359__594"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2360__595"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2361__596"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2362__597"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2363__598"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2364__599"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2365__600"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2366__601"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_2951__602"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_894__603"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_901__604"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_954__605"
+        },
+        {
+            "name" : "ITSCAM600_LM55_BODY_998__606"
+        },
+        {
+            "children" : [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29,
+                30,
+                31,
+                32,
+                33,
+                34,
+                35,
+                36,
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44,
+                45,
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57,
+                58,
+                59,
+                60,
+                61,
+                62,
+                63,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69,
+                70,
+                71,
+                72,
+                73,
+                74,
+                75,
+                76,
+                77,
+                78,
+                79,
+                80,
+                81,
+                82,
+                83,
+                84,
+                85,
+                86,
+                87,
+                88,
+                89,
+                90,
+                91,
+                92,
+                93,
+                94,
+                95,
+                96,
+                97,
+                98,
+                99,
+                100,
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110,
+                111,
+                112,
+                113,
+                114,
+                115,
+                116,
+                117,
+                118,
+                119,
+                120,
+                121,
+                122,
+                123,
+                124,
+                125,
+                126,
+                127,
+                128,
+                129,
+                130,
+                131,
+                132,
+                133,
+                134,
+                135,
+                136,
+                137,
+                138,
+                139,
+                140,
+                141,
+                142,
+                143,
+                144,
+                145,
+                146,
+                147,
+                148,
+                149,
+                150,
+                151,
+                152,
+                153,
+                154,
+                155,
+                156,
+                157,
+                158,
+                159,
+                160,
+                161,
+                162,
+                163,
+                164,
+                165,
+                166,
+                167,
+                168,
+                169,
+                170,
+                171,
+                172,
+                173,
+                174,
+                175,
+                176,
+                177,
+                178,
+                179,
+                180,
+                181,
+                182,
+                183,
+                184,
+                185,
+                186,
+                187,
+                188,
+                189,
+                190,
+                191,
+                192,
+                193,
+                194,
+                195,
+                196,
+                197,
+                198,
+                199,
+                200,
+                201,
+                202,
+                203,
+                204,
+                205,
+                206,
+                207,
+                208,
+                209,
+                210,
+                211,
+                212,
+                213,
+                214,
+                215,
+                216,
+                217,
+                218,
+                219,
+                220,
+                221,
+                222,
+                223,
+                224,
+                225,
+                226,
+                227,
+                228,
+                229,
+                230,
+                231,
+                232,
+                233,
+                234,
+                235,
+                236,
+                237,
+                238,
+                239,
+                240,
+                241,
+                242,
+                243,
+                244,
+                245,
+                246,
+                247,
+                248,
+                249,
+                250,
+                251,
+                252,
+                253,
+                254,
+                255,
+                256,
+                257,
+                258,
+                259,
+                260,
+                261,
+                262,
+                263,
+                264,
+                265,
+                266,
+                267,
+                268,
+                269,
+                270,
+                271,
+                272,
+                273,
+                274,
+                275,
+                276,
+                277,
+                278,
+                279,
+                280,
+                281,
+                282,
+                283,
+                284,
+                285,
+                286,
+                287,
+                288,
+                289,
+                291,
+                292,
+                293,
+                294,
+                295,
+                296,
+                297,
+                298,
+                299,
+                300,
+                301,
+                302,
+                303,
+                304,
+                305,
+                306,
+                307,
+                308,
+                309,
+                310,
+                311,
+                312,
+                313,
+                314,
+                315,
+                316,
+                317,
+                318,
+                319,
+                320,
+                321,
+                322,
+                323,
+                324,
+                325,
+                326,
+                327,
+                328,
+                329,
+                330,
+                331,
+                332,
+                333,
+                334,
+                335,
+                336,
+                337,
+                338,
+                339,
+                340,
+                341,
+                342,
+                343,
+                344,
+                345,
+                346,
+                347,
+                348,
+                349,
+                350,
+                351,
+                352,
+                353,
+                354,
+                355,
+                356,
+                357,
+                358,
+                359,
+                360,
+                361,
+                362,
+                363,
+                364,
+                365,
+                366,
+                367,
+                368,
+                369,
+                370,
+                371,
+                372,
+                373,
+                374,
+                375,
+                376,
+                377,
+                378,
+                379,
+                380,
+                381,
+                382,
+                383,
+                384,
+                385,
+                386,
+                387,
+                388,
+                389,
+                390,
+                391,
+                392,
+                393,
+                394,
+                395,
+                396,
+                397,
+                398,
+                399,
+                400,
+                401,
+                402,
+                403,
+                404,
+                405,
+                406,
+                407,
+                408,
+                409,
+                410,
+                411,
+                412,
+                413,
+                414,
+                415,
+                416,
+                417,
+                418,
+                419,
+                420,
+                421,
+                422,
+                423,
+                424,
+                425,
+                426,
+                427,
+                428,
+                429,
+                430,
+                431,
+                432,
+                433,
+                434,
+                435,
+                436,
+                437,
+                438,
+                439,
+                440,
+                441,
+                442,
+                443,
+                444,
+                445,
+                446,
+                447,
+                448,
+                449,
+                450,
+                451,
+                452,
+                453,
+                454,
+                455,
+                456,
+                457,
+                458,
+                459,
+                460,
+                461,
+                462,
+                463,
+                464,
+                465,
+                466,
+                467,
+                468,
+                469,
+                470,
+                471,
+                472,
+                473,
+                474,
+                475,
+                476,
+                477,
+                478,
+                479,
+                480,
+                481,
+                482,
+                483,
+                484,
+                485,
+                486,
+                487,
+                488,
+                489,
+                490,
+                491,
+                492,
+                493,
+                494,
+                495,
+                496,
+                497,
+                498,
+                499,
+                500,
+                501,
+                502,
+                503,
+                504,
+                505,
+                506,
+                507,
+                508,
+                509,
+                510,
+                511,
+                512,
+                513,
+                514,
+                515,
+                516,
+                517,
+                518,
+                519,
+                520,
+                521,
+                522,
+                523,
+                524,
+                525,
+                526,
+                527,
+                528,
+                529,
+                530,
+                531,
+                532,
+                533,
+                534,
+                535,
+                536,
+                537,
+                538,
+                539,
+                540,
+                541,
+                542,
+                543,
+                544,
+                545,
+                546,
+                547,
+                548,
+                549,
+                550,
+                551,
+                552,
+                553,
+                554,
+                555,
+                556,
+                557,
+                558,
+                559,
+                560,
+                561,
+                562,
+                563,
+                564,
+                565,
+                566,
+                567,
+                568,
+                569,
+                570,
+                571,
+                572,
+                573,
+                574,
+                575,
+                576,
+                577,
+                578,
+                579,
+                580,
+                581,
+                582,
+                583,
+                584,
+                585,
+                586,
+                587,
+                588,
+                589,
+                590,
+                591,
+                592,
+                593,
+                594,
+                595,
+                596,
+                597,
+                598,
+                599,
+                600,
+                601,
+                602,
+                603,
+                604,
+                605
+            ],
+            "name" : "ITSCAM600_LM55_1_607",
+            "rotation" : [
+                -0.5000010132789612,
+                0.4999985992908478,
+                -0.5000008940696716,
+                0.499999463558197
+            ],
+            "scale" : [
+                0.009999999776482582,
+                0.009999999776482582,
+                0.009999999776482582
+            ]
+        },
+        {
+            "children" : [
+                606
+            ],
+            "name" : "GLTF_SceneRootNode",
+            "rotation" : [
+                0.7071068286895752,
+                0,
+                0,
+                0.7071068286895752
+            ]
+        },
+        {
+            "children" : [
+                607
+            ],
+            "name" : "root"
+        },
+        {
+            "children" : [
+                608
+            ],
+            "name" : "RootNode (model correction matrix)"
+        },
+        {
+            "children" : [
+                609
+            ],
+            "name" : "RootNode (gltf orientation matrix)"
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "Fbx_Default_Material",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.6202306151390076,
+                    0.6202306151390076,
+                    0.6202306151390076,
+                    1
+                ],
+                "baseColorTexture" : {
+                    "index" : 0,
+                    "texCoord" : 0
+                },
+                "metallicFactor" : 0.701991617679596,
+                "roughnessFactor" : 0.5527859926223755
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "color_ffffffff",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.05176103487610817,
+                    0.05176103487610817,
+                    0.05176103487610817,
+                    1
+                ],
+                "metallicFactor" : 1,
+                "roughnessFactor" : 0.5527859926223755
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "color_c0c0c0ff",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "metallicFactor" : 1,
+                "roughnessFactor" : 0.5527859926223755
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "color_c7876bff",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "metallicFactor" : 1,
+                "roughnessFactor" : 0.5527859926223755
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "color_1f1f1fff",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "metallicFactor" : 1,
+                "roughnessFactor" : 0.5527859926223755
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "color_f0f0f0ff",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "metallicFactor" : 1,
+                "roughnessFactor" : 0.5527859926223755
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "color_cad1eeff",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.04017113149166107,
+                    0.039271194487810135,
+                    0.039271194487810135,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 1
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "color_000000ff",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "metallicFactor" : 1,
+                "roughnessFactor" : 0.5527859926223755
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "color_3b3b3bff",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "metallicFactor" : 1,
+                "roughnessFactor" : 0.5527859926223755
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "color_474747ff",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.5010838508605957,
+                    0.4832248091697693,
+                    0.4832248091697693,
+                    1
+                ],
+                "metallicFactor" : 1,
+                "roughnessFactor" : 0.4126834571361542
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "color_9e9e9eff",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "metallicFactor" : 1,
+                "roughnessFactor" : 0.5527859926223755
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "color_202020ff",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "metallicFactor" : 1,
+                "roughnessFactor" : 0.5527859926223755
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "color_ff00ffff",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "metallicFactor" : 1,
+                "roughnessFactor" : 0.5527859926223755
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "DefaultCADImportMaterial",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.18166683614253998,
+                    0.17044655978679657,
+                    0.17044655978679657,
+                    1
+                ],
+                "metallicFactor" : 1,
+                "roughnessFactor" : 0.37494760751724243
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "color_c7f8f3ff",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.2617400586605072,
+                    0.2617400586605072,
+                    0.2617400586605072,
+                    1
+                ],
+                "metallicFactor" : 0.6013627052307129,
+                "roughnessFactor" : 0
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "color_cbd2efff",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.020183701068162918,
+                    0.0337943434715271,
+                    1,
+                    1
+                ],
+                "metallicFactor" : 1,
+                "roughnessFactor" : 0.5527859926223755
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "color_00aa00ff",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "metallicFactor" : 1,
+                "roughnessFactor" : 0.5527859926223755
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "color_fd8300ff",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "metallicFactor" : 1,
+                "roughnessFactor" : 0.5527859926223755
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "color_ffff00ff",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.011189822107553482,
+                    0.3182045817375183,
+                    0.0348365493118763,
+                    1
+                ],
+                "metallicFactor" : 1,
+                "roughnessFactor" : 0
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "color_00c000ff",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    0,
+                    0,
+                    1
+                ],
+                "metallicFactor" : 1,
+                "roughnessFactor" : 0
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "color_808080ff",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "metallicFactor" : 1,
+                "roughnessFactor" : 0.5527859926223755
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "color_ffffc0ff",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0.3338155746459961,
+                    0.2540609836578369,
+                    0.01399277150630951,
+                    1
+                ],
+                "metallicFactor" : 0.31205451488494873,
+                "roughnessFactor" : 0.21771489083766937
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "color_aaaaaaff",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "metallicFactor" : 1,
+                "roughnessFactor" : 0.5527859926223755
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "color_333333ff",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "metallicFactor" : 1,
+                "roughnessFactor" : 0.5527859926223755
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "color_fafafaff",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "metallicFactor" : 1,
+                "roughnessFactor" : 0.5527859926223755
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "color_bfbfbfff",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "metallicFactor" : 1,
+                "roughnessFactor" : 0.5527859926223755
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "color_57565bff",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "metallicFactor" : 1,
+                "roughnessFactor" : 0.5527859926223755
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "color_404040ff",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "metallicFactor" : 1,
+                "roughnessFactor" : 0.5527859926223755
+            }
+        },
+        {
+            "doubleSided" : true,
+            "emissiveFactor" : [
+                0,
+                0,
+                0
+            ],
+            "name" : "color_443c3eff",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "metallicFactor" : 1,
+                "roughnessFactor" : 0.5527859926223755
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Mesh_291",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2,
+                        "TEXCOORD_1" : 3
+                    },
+                    "indices" : 4,
+                    "material" : 0
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 5,
+                        "NORMAL" : 6,
+                        "TEXCOORD_0" : 7,
+                        "TEXCOORD_1" : 8
+                    },
+                    "indices" : 9,
+                    "material" : 1
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 10,
+                        "NORMAL" : 11,
+                        "TEXCOORD_0" : 12,
+                        "TEXCOORD_1" : 13
+                    },
+                    "indices" : 14,
+                    "material" : 2
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 15,
+                        "NORMAL" : 16,
+                        "TEXCOORD_0" : 17,
+                        "TEXCOORD_1" : 18
+                    },
+                    "indices" : 19,
+                    "material" : 3
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 20,
+                        "NORMAL" : 21,
+                        "TEXCOORD_0" : 22,
+                        "TEXCOORD_1" : 23
+                    },
+                    "indices" : 24,
+                    "material" : 4
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 25,
+                        "NORMAL" : 26,
+                        "TEXCOORD_0" : 27,
+                        "TEXCOORD_1" : 28
+                    },
+                    "indices" : 19,
+                    "material" : 5
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 29,
+                        "NORMAL" : 30,
+                        "TEXCOORD_0" : 31,
+                        "TEXCOORD_1" : 32
+                    },
+                    "indices" : 33,
+                    "material" : 6
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 34,
+                        "NORMAL" : 35,
+                        "TEXCOORD_0" : 36,
+                        "TEXCOORD_1" : 37
+                    },
+                    "indices" : 38,
+                    "material" : 7
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 39,
+                        "NORMAL" : 40,
+                        "TEXCOORD_0" : 41,
+                        "TEXCOORD_1" : 42
+                    },
+                    "indices" : 43,
+                    "material" : 8
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 44,
+                        "NORMAL" : 45,
+                        "TEXCOORD_0" : 46,
+                        "TEXCOORD_1" : 47
+                    },
+                    "indices" : 48,
+                    "material" : 9
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 49,
+                        "NORMAL" : 50,
+                        "TEXCOORD_0" : 51,
+                        "TEXCOORD_1" : 52
+                    },
+                    "indices" : 53,
+                    "material" : 10
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 54,
+                        "NORMAL" : 55,
+                        "TEXCOORD_0" : 56,
+                        "TEXCOORD_1" : 57
+                    },
+                    "indices" : 58,
+                    "material" : 11
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 59,
+                        "NORMAL" : 60,
+                        "TEXCOORD_0" : 61,
+                        "TEXCOORD_1" : 62
+                    },
+                    "indices" : 63,
+                    "material" : 12
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 64,
+                        "NORMAL" : 65,
+                        "TEXCOORD_0" : 66,
+                        "TEXCOORD_1" : 67
+                    },
+                    "indices" : 68,
+                    "material" : 13
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 69,
+                        "NORMAL" : 70,
+                        "TEXCOORD_0" : 71,
+                        "TEXCOORD_1" : 72
+                    },
+                    "indices" : 73,
+                    "material" : 14
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 74,
+                        "NORMAL" : 75,
+                        "TEXCOORD_0" : 76,
+                        "TEXCOORD_1" : 77
+                    },
+                    "indices" : 78,
+                    "material" : 15
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 79,
+                        "NORMAL" : 80,
+                        "TEXCOORD_0" : 81,
+                        "TEXCOORD_1" : 82
+                    },
+                    "indices" : 83,
+                    "material" : 16
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 84,
+                        "NORMAL" : 85,
+                        "TEXCOORD_0" : 86,
+                        "TEXCOORD_1" : 87
+                    },
+                    "indices" : 88,
+                    "material" : 17
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 89,
+                        "NORMAL" : 90,
+                        "TEXCOORD_0" : 91,
+                        "TEXCOORD_1" : 92
+                    },
+                    "indices" : 93,
+                    "material" : 18
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 94,
+                        "NORMAL" : 95,
+                        "TEXCOORD_0" : 96,
+                        "TEXCOORD_1" : 97
+                    },
+                    "indices" : 98,
+                    "material" : 19
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 99,
+                        "NORMAL" : 100,
+                        "TEXCOORD_0" : 101,
+                        "TEXCOORD_1" : 102
+                    },
+                    "indices" : 103,
+                    "material" : 20
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 104,
+                        "NORMAL" : 105,
+                        "TEXCOORD_0" : 106,
+                        "TEXCOORD_1" : 107
+                    },
+                    "indices" : 108,
+                    "material" : 21
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 109,
+                        "NORMAL" : 110,
+                        "TEXCOORD_0" : 111,
+                        "TEXCOORD_1" : 112
+                    },
+                    "indices" : 113,
+                    "material" : 22
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 114,
+                        "NORMAL" : 115,
+                        "TEXCOORD_0" : 116,
+                        "TEXCOORD_1" : 117
+                    },
+                    "indices" : 53,
+                    "material" : 23
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 118,
+                        "NORMAL" : 119,
+                        "TEXCOORD_0" : 120,
+                        "TEXCOORD_1" : 121
+                    },
+                    "indices" : 43,
+                    "material" : 24
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 122,
+                        "NORMAL" : 123,
+                        "TEXCOORD_0" : 124,
+                        "TEXCOORD_1" : 125
+                    },
+                    "indices" : 53,
+                    "material" : 25
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 126,
+                        "NORMAL" : 127,
+                        "TEXCOORD_0" : 128,
+                        "TEXCOORD_1" : 129
+                    },
+                    "indices" : 63,
+                    "material" : 26
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 130,
+                        "NORMAL" : 131,
+                        "TEXCOORD_0" : 132,
+                        "TEXCOORD_1" : 133
+                    },
+                    "indices" : 63,
+                    "material" : 27
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 134,
+                        "NORMAL" : 135,
+                        "TEXCOORD_0" : 136,
+                        "TEXCOORD_1" : 137
+                    },
+                    "indices" : 63,
+                    "material" : 28
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "source" : 0
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/png",
+            "name" : "Fbx_Default_Material_baseColor",
+            "uri" : "Fbx_Default_Material_baseColor.png"
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 32385,
+            "max" : [
+                3.799999952316284,
+                6.6808037757873535,
+                1.0399999618530273
+            ],
+            "min" : [
+                -3.799999952316284,
+                -0.7965099215507507,
+                -17.6200008392334
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 32385,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 32385,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5126,
+            "count" : 32385,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5123,
+            "count" : 59451,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5126,
+            "count" : 18111,
+            "max" : [
+                3.620999813079834,
+                5.928620338439941,
+                0.8299999237060547
+            ],
+            "min" : [
+                -3.389295816421509,
+                0.1660662144422531,
+                -13.131203651428223
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 18111,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5126,
+            "count" : 18111,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 8,
+            "componentType" : 5126,
+            "count" : 18111,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 9,
+            "componentType" : 5123,
+            "count" : 27894,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 10,
+            "componentType" : 5126,
+            "count" : 1178,
+            "max" : [
+                2.5750489234924316,
+                5.442500114440918,
+                0.1475788652896881
+            ],
+            "min" : [
+                -3.0507559776306152,
+                1.5516488552093506,
+                -8.45576000213623
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 11,
+            "componentType" : 5126,
+            "count" : 1178,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 12,
+            "componentType" : 5126,
+            "count" : 1178,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 13,
+            "componentType" : 5126,
+            "count" : 1178,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 14,
+            "componentType" : 5123,
+            "count" : 2085,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 15,
+            "componentType" : 5126,
+            "count" : 12,
+            "max" : [
+                -3.0365662574768066,
+                4.490444660186768,
+                -1.5586291551589966
+            ],
+            "min" : [
+                -3.051346778869629,
+                1.5716195106506348,
+                -7.713001251220703
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 16,
+            "componentType" : 5126,
+            "count" : 12,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 17,
+            "componentType" : 5126,
+            "count" : 12,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 18,
+            "componentType" : 5126,
+            "count" : 12,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 19,
+            "componentType" : 5123,
+            "count" : 12,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 20,
+            "componentType" : 5126,
+            "count" : 1324,
+            "max" : [
+                2.5496490001678467,
+                4.973662376403809,
+                0.1475788801908493
+            ],
+            "min" : [
+                -3.049407482147217,
+                1.5490427017211914,
+                -7.713001251220703
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 21,
+            "componentType" : 5126,
+            "count" : 1324,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 22,
+            "componentType" : 5126,
+            "count" : 1324,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 23,
+            "componentType" : 5126,
+            "count" : 1324,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 24,
+            "componentType" : 5123,
+            "count" : 2433,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 25,
+            "componentType" : 5126,
+            "count" : 12,
+            "max" : [
+                -2.9946773052215576,
+                4.82653284072876,
+                -1.0162794589996338
+            ],
+            "min" : [
+                -3.0118963718414307,
+                4.7365899085998535,
+                -1.5863131284713745
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 26,
+            "componentType" : 5126,
+            "count" : 12,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 27,
+            "componentType" : 5126,
+            "count" : 12,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 28,
+            "componentType" : 5126,
+            "count" : 12,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 29,
+            "componentType" : 5126,
+            "count" : 52327,
+            "max" : [
+                3.1369998455047607,
+                5.700774192810059,
+                0.200002521276474
+            ],
+            "min" : [
+                -3.0507559776306152,
+                2.641498327255249,
+                -1.7659986019134521
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 30,
+            "componentType" : 5126,
+            "count" : 52327,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 31,
+            "componentType" : 5126,
+            "count" : 52327,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 32,
+            "componentType" : 5126,
+            "count" : 52327,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 33,
+            "componentType" : 5123,
+            "count" : 95475,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 34,
+            "componentType" : 5126,
+            "count" : 236,
+            "max" : [
+                2.5496490001678467,
+                4.951608657836914,
+                0.1475788652896881
+            ],
+            "min" : [
+                -3.049407482147217,
+                3.309569835662842,
+                -1.5657888650894165
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 35,
+            "componentType" : 5126,
+            "count" : 236,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 36,
+            "componentType" : 5126,
+            "count" : 236,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 37,
+            "componentType" : 5126,
+            "count" : 236,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 38,
+            "componentType" : 5123,
+            "count" : 390,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 39,
+            "componentType" : 5126,
+            "count" : 6,
+            "max" : [
+                -2.996415376663208,
+                4.82653284072876,
+                -1.027896761894226
+            ],
+            "min" : [
+                -3.0091335773468018,
+                4.7365899085998535,
+                -1.5836845636367798
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 40,
+            "componentType" : 5126,
+            "count" : 6,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 41,
+            "componentType" : 5126,
+            "count" : 6,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 42,
+            "componentType" : 5126,
+            "count" : 6,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 43,
+            "componentType" : 5123,
+            "count" : 6,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 44,
+            "componentType" : 5126,
+            "count" : 4246,
+            "max" : [
+                -1.9456568956375122,
+                4.761341571807861,
+                0.09719488769769669
+            ],
+            "min" : [
+                -3.05133056640625,
+                0.7534880638122559,
+                -1.0888049602508545
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 45,
+            "componentType" : 5126,
+            "count" : 4246,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 46,
+            "componentType" : 5126,
+            "count" : 4246,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 47,
+            "componentType" : 5126,
+            "count" : 4246,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 48,
+            "componentType" : 5123,
+            "count" : 5940,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 49,
+            "componentType" : 5126,
+            "count" : 9,
+            "max" : [
+                -3.0346856117248535,
+                4.761341571807861,
+                -1.0368036031723022
+            ],
+            "min" : [
+                -3.049407482147217,
+                4.3467864990234375,
+                -1.0455262660980225
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 50,
+            "componentType" : 5126,
+            "count" : 9,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 51,
+            "componentType" : 5126,
+            "count" : 9,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 52,
+            "componentType" : 5126,
+            "count" : 9,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 53,
+            "componentType" : 5123,
+            "count" : 9,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 54,
+            "componentType" : 5126,
+            "count" : 359,
+            "max" : [
+                2.321249008178711,
+                4.973662376403809,
+                -0.2348511666059494
+            ],
+            "min" : [
+                -3.039536952972412,
+                1.5725228786468506,
+                -7.6882500648498535
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 55,
+            "componentType" : 5126,
+            "count" : 359,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 56,
+            "componentType" : 5126,
+            "count" : 359,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 57,
+            "componentType" : 5126,
+            "count" : 359,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 58,
+            "componentType" : 5123,
+            "count" : 579,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 59,
+            "componentType" : 5126,
+            "count" : 3,
+            "max" : [
+                -2.9921767711639404,
+                4.371538162231445,
+                -1.0196000337600708
+            ],
+            "min" : [
+                -2.993309497833252,
+                4.3467864990234375,
+                -1.0225821733474731
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 60,
+            "componentType" : 5126,
+            "count" : 3,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 61,
+            "componentType" : 5126,
+            "count" : 3,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 62,
+            "componentType" : 5126,
+            "count" : 3,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 63,
+            "componentType" : 5123,
+            "count" : 3,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 64,
+            "componentType" : 5126,
+            "count" : 16988,
+            "max" : [
+                3.799999713897705,
+                6.680803298950195,
+                0.3482717275619507
+            ],
+            "min" : [
+                -3.799999713897705,
+                -1.0549495220184326,
+                -17.51999855041504
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 65,
+            "componentType" : 5126,
+            "count" : 16988,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 66,
+            "componentType" : 5126,
+            "count" : 16988,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 67,
+            "componentType" : 5126,
+            "count" : 16988,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 68,
+            "componentType" : 5123,
+            "count" : 34293,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 69,
+            "componentType" : 5126,
+            "count" : 90,
+            "max" : [
+                1.4199976921081543,
+                4.554883003234863,
+                -17.473634719848633
+            ],
+            "min" : [
+                -1.4199976921081543,
+                1.7151167392730713,
+                -17.473651885986328
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 70,
+            "componentType" : 5126,
+            "count" : 90,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 71,
+            "componentType" : 5126,
+            "count" : 90,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 72,
+            "componentType" : 5126,
+            "count" : 90,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 73,
+            "componentType" : 5123,
+            "count" : 90,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 74,
+            "componentType" : 5126,
+            "count" : 33493,
+            "max" : [
+                2.591066598892212,
+                5.034229755401611,
+                0.1475788801908493
+            ],
+            "min" : [
+                -3.0342562198638916,
+                3.149785280227661,
+                -1.5814052820205688
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 75,
+            "componentType" : 5126,
+            "count" : 33493,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 76,
+            "componentType" : 5126,
+            "count" : 33493,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 77,
+            "componentType" : 5126,
+            "count" : 33493,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 78,
+            "componentType" : 5123,
+            "count" : 62772,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 79,
+            "componentType" : 5126,
+            "count" : 109,
+            "max" : [
+                0.6451091170310974,
+                5.602631568908691,
+                -3.604107618331909
+            ],
+            "min" : [
+                0.6051090955734253,
+                5.602431774139404,
+                -3.8619091510772705
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 80,
+            "componentType" : 5126,
+            "count" : 109,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 81,
+            "componentType" : 5126,
+            "count" : 109,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 82,
+            "componentType" : 5126,
+            "count" : 109,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 83,
+            "componentType" : 5123,
+            "count" : 168,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 84,
+            "componentType" : 5126,
+            "count" : 15,
+            "max" : [
+                -2.575713872909546,
+                5.442500114440918,
+                -7.6882500648498535
+            ],
+            "min" : [
+                -3.039536952972412,
+                1.5725228786468506,
+                -8.45576000213623
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 85,
+            "componentType" : 5126,
+            "count" : 15,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 86,
+            "componentType" : 5126,
+            "count" : 15,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 87,
+            "componentType" : 5126,
+            "count" : 15,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 88,
+            "componentType" : 5123,
+            "count" : 21,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 89,
+            "componentType" : 5126,
+            "count" : 1776,
+            "max" : [
+                2.5750489234924316,
+                5.034229755401611,
+                0.1778588593006134
+            ],
+            "min" : [
+                -0.8900905251502991,
+                3.149785280227661,
+                -1.4424610137939453
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 90,
+            "componentType" : 5126,
+            "count" : 1776,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 91,
+            "componentType" : 5126,
+            "count" : 1776,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 92,
+            "componentType" : 5126,
+            "count" : 1776,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 93,
+            "componentType" : 5123,
+            "count" : 3288,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 94,
+            "componentType" : 5126,
+            "count" : 132,
+            "max" : [
+                2.4902985095977783,
+                3.632930278778076,
+                0.1778588742017746
+            ],
+            "min" : [
+                0.17064863443374634,
+                3.4116392135620117,
+                0.11185886710882187
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 95,
+            "componentType" : 5126,
+            "count" : 132,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 96,
+            "componentType" : 5126,
+            "count" : 132,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 97,
+            "componentType" : 5126,
+            "count" : 132,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 98,
+            "componentType" : 5123,
+            "count" : 288,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 99,
+            "componentType" : 5126,
+            "count" : 105,
+            "max" : [
+                2.295785427093506,
+                4.544009208679199,
+                -0.24173805117607117
+            ],
+            "min" : [
+                0.9240491390228271,
+                3.1571695804595947,
+                -1.3865810632705688
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 100,
+            "componentType" : 5126,
+            "count" : 105,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 101,
+            "componentType" : 5126,
+            "count" : 105,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 102,
+            "componentType" : 5126,
+            "count" : 105,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 103,
+            "componentType" : 5123,
+            "count" : 171,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 104,
+            "componentType" : 5126,
+            "count" : 2338,
+            "max" : [
+                2.128678798675537,
+                4.532557964324951,
+                -0.20678095519542694
+            ],
+            "min" : [
+                -0.5285208225250244,
+                4.082993984222412,
+                -0.9168928861618042
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 105,
+            "componentType" : 5126,
+            "count" : 2338,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 106,
+            "componentType" : 5126,
+            "count" : 2338,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 107,
+            "componentType" : 5126,
+            "count" : 2338,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 108,
+            "componentType" : 5123,
+            "count" : 2982,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 109,
+            "componentType" : 5126,
+            "count" : 751,
+            "max" : [
+                0.6371491551399231,
+                4.973649501800537,
+                0.11185888200998306
+            ],
+            "min" : [
+                -0.9137758612632751,
+                3.3429696559906006,
+                -1.4221410751342773
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 110,
+            "componentType" : 5126,
+            "count" : 751,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 111,
+            "componentType" : 5126,
+            "count" : 751,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 112,
+            "componentType" : 5126,
+            "count" : 751,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 113,
+            "componentType" : 5123,
+            "count" : 1287,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 114,
+            "componentType" : 5126,
+            "count" : 9,
+            "max" : [
+                -3.0008606910705566,
+                4.371538162231445,
+                -1.0211260318756104
+            ],
+            "min" : [
+                -3.0359041690826416,
+                4.3467864990234375,
+                -1.0462112426757812
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 115,
+            "componentType" : 5126,
+            "count" : 9,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 116,
+            "componentType" : 5126,
+            "count" : 9,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 117,
+            "componentType" : 5126,
+            "count" : 9,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 118,
+            "componentType" : 5126,
+            "count" : 6,
+            "max" : [
+                -2.9921767711639404,
+                4.371538162231445,
+                -1.0196000337600708
+            ],
+            "min" : [
+                -3.046260356903076,
+                4.3467864990234375,
+                -1.0404740571975708
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 119,
+            "componentType" : 5126,
+            "count" : 6,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 120,
+            "componentType" : 5126,
+            "count" : 6,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 121,
+            "componentType" : 5126,
+            "count" : 6,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 122,
+            "componentType" : 5126,
+            "count" : 9,
+            "max" : [
+                -2.9946775436401367,
+                4.371537685394287,
+                -1.0211260318756104
+            ],
+            "min" : [
+                -3.0507559776306152,
+                4.3467864990234375,
+                -1.5630218982696533
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 123,
+            "componentType" : 5126,
+            "count" : 9,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 124,
+            "componentType" : 5126,
+            "count" : 9,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 125,
+            "componentType" : 5126,
+            "count" : 9,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 126,
+            "componentType" : 5126,
+            "count" : 3,
+            "max" : [
+                -2.9921767711639404,
+                4.3467864990234375,
+                -1.5800105333328247
+            ],
+            "min" : [
+                -3.004316806793213,
+                4.3467864990234375,
+                -1.582992672920227
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 127,
+            "componentType" : 5126,
+            "count" : 3,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 128,
+            "componentType" : 5126,
+            "count" : 3,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 129,
+            "componentType" : 5126,
+            "count" : 3,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 130,
+            "componentType" : 5126,
+            "count" : 3,
+            "max" : [
+                -3.0034985542297363,
+                1.5678942203521729,
+                -7.6882500648498535
+            ],
+            "min" : [
+                -3.008448600769043,
+                1.5658303499221802,
+                -7.713001251220703
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 131,
+            "componentType" : 5126,
+            "count" : 3,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 132,
+            "componentType" : 5126,
+            "count" : 3,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 133,
+            "componentType" : 5126,
+            "count" : 3,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 134,
+            "componentType" : 5126,
+            "count" : 3,
+            "max" : [
+                -3.004333019256592,
+                1.5531749725341797,
+                -7.713001251220703
+            ],
+            "min" : [
+                -3.0091500282287598,
+                1.5509569644927979,
+                -7.713001251220703
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 135,
+            "componentType" : 5126,
+            "count" : 3,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 136,
+            "componentType" : 5126,
+            "count" : 3,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 137,
+            "componentType" : 5126,
+            "count" : 3,
+            "type" : "VEC2"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 388620,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 388620,
+            "byteOffset" : 388620
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 259080,
+            "byteOffset" : 777240
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 259080,
+            "byteOffset" : 1036320
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 118902,
+            "byteOffset" : 1295400
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 217332,
+            "byteOffset" : 1414304
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 217332,
+            "byteOffset" : 1631636
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 144888,
+            "byteOffset" : 1848968
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 144888,
+            "byteOffset" : 1993856
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 55788,
+            "byteOffset" : 2138744
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 14136,
+            "byteOffset" : 2194532
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 14136,
+            "byteOffset" : 2208668
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 9424,
+            "byteOffset" : 2222804
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 9424,
+            "byteOffset" : 2232228
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 4170,
+            "byteOffset" : 2241652
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 144,
+            "byteOffset" : 2245824
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 144,
+            "byteOffset" : 2245968
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 96,
+            "byteOffset" : 2246112
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 96,
+            "byteOffset" : 2246208
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 24,
+            "byteOffset" : 2246304
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 15888,
+            "byteOffset" : 2246328
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 15888,
+            "byteOffset" : 2262216
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 10592,
+            "byteOffset" : 2278104
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 10592,
+            "byteOffset" : 2288696
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 4866,
+            "byteOffset" : 2299288
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 144,
+            "byteOffset" : 2304156
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 144,
+            "byteOffset" : 2304300
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 96,
+            "byteOffset" : 2304444
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 96,
+            "byteOffset" : 2304540
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 627924,
+            "byteOffset" : 2304636
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 627924,
+            "byteOffset" : 2932560
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 418616,
+            "byteOffset" : 3560484
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 418616,
+            "byteOffset" : 3979100
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 190950,
+            "byteOffset" : 4397716
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2832,
+            "byteOffset" : 4588668
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2832,
+            "byteOffset" : 4591500
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1888,
+            "byteOffset" : 4594332
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1888,
+            "byteOffset" : 4596220
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 780,
+            "byteOffset" : 4598108
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 72,
+            "byteOffset" : 4598888
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 72,
+            "byteOffset" : 4598960
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 4599032
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 4599080
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 12,
+            "byteOffset" : 4599128
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 50952,
+            "byteOffset" : 4599140
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 50952,
+            "byteOffset" : 4650092
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 33968,
+            "byteOffset" : 4701044
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 33968,
+            "byteOffset" : 4735012
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 11880,
+            "byteOffset" : 4768980
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 108,
+            "byteOffset" : 4780860
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 108,
+            "byteOffset" : 4780968
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 72,
+            "byteOffset" : 4781076
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 72,
+            "byteOffset" : 4781148
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 18,
+            "byteOffset" : 4781220
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 4308,
+            "byteOffset" : 4781240
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 4308,
+            "byteOffset" : 4785548
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2872,
+            "byteOffset" : 4789856
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2872,
+            "byteOffset" : 4792728
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1158,
+            "byteOffset" : 4795600
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 36,
+            "byteOffset" : 4796760
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 36,
+            "byteOffset" : 4796796
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 24,
+            "byteOffset" : 4796832
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 24,
+            "byteOffset" : 4796856
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 6,
+            "byteOffset" : 4796880
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 203856,
+            "byteOffset" : 4796888
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 203856,
+            "byteOffset" : 5000744
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 135904,
+            "byteOffset" : 5204600
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 135904,
+            "byteOffset" : 5340504
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 68586,
+            "byteOffset" : 5476408
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1080,
+            "byteOffset" : 5544996
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1080,
+            "byteOffset" : 5546076
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 720,
+            "byteOffset" : 5547156
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 720,
+            "byteOffset" : 5547876
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 180,
+            "byteOffset" : 5548596
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 401916,
+            "byteOffset" : 5548776
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 401916,
+            "byteOffset" : 5950692
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 267944,
+            "byteOffset" : 6352608
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 267944,
+            "byteOffset" : 6620552
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 125544,
+            "byteOffset" : 6888496
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1308,
+            "byteOffset" : 7014040
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1308,
+            "byteOffset" : 7015348
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 872,
+            "byteOffset" : 7016656
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 872,
+            "byteOffset" : 7017528
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 336,
+            "byteOffset" : 7018400
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 180,
+            "byteOffset" : 7018736
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 180,
+            "byteOffset" : 7018916
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 120,
+            "byteOffset" : 7019096
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 120,
+            "byteOffset" : 7019216
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 42,
+            "byteOffset" : 7019336
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 21312,
+            "byteOffset" : 7019380
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 21312,
+            "byteOffset" : 7040692
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 14208,
+            "byteOffset" : 7062004
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 14208,
+            "byteOffset" : 7076212
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 6576,
+            "byteOffset" : 7090420
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1584,
+            "byteOffset" : 7096996
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1584,
+            "byteOffset" : 7098580
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1056,
+            "byteOffset" : 7100164
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1056,
+            "byteOffset" : 7101220
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 576,
+            "byteOffset" : 7102276
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1260,
+            "byteOffset" : 7102852
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 1260,
+            "byteOffset" : 7104112
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 840,
+            "byteOffset" : 7105372
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 840,
+            "byteOffset" : 7106212
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 342,
+            "byteOffset" : 7107052
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 28056,
+            "byteOffset" : 7107396
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 28056,
+            "byteOffset" : 7135452
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 18704,
+            "byteOffset" : 7163508
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 18704,
+            "byteOffset" : 7182212
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 5964,
+            "byteOffset" : 7200916
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 9012,
+            "byteOffset" : 7206880
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 9012,
+            "byteOffset" : 7215892
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 6008,
+            "byteOffset" : 7224904
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 6008,
+            "byteOffset" : 7230912
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 2574,
+            "byteOffset" : 7236920
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 108,
+            "byteOffset" : 7239496
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 108,
+            "byteOffset" : 7239604
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 72,
+            "byteOffset" : 7239712
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 72,
+            "byteOffset" : 7239784
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 72,
+            "byteOffset" : 7239856
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 72,
+            "byteOffset" : 7239928
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 7240000
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 48,
+            "byteOffset" : 7240048
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 108,
+            "byteOffset" : 7240096
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 108,
+            "byteOffset" : 7240204
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 72,
+            "byteOffset" : 7240312
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 72,
+            "byteOffset" : 7240384
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 36,
+            "byteOffset" : 7240456
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 36,
+            "byteOffset" : 7240492
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 24,
+            "byteOffset" : 7240528
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 24,
+            "byteOffset" : 7240552
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 36,
+            "byteOffset" : 7240576
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 36,
+            "byteOffset" : 7240612
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 24,
+            "byteOffset" : 7240648
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 24,
+            "byteOffset" : 7240672
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 36,
+            "byteOffset" : 7240696
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 36,
+            "byteOffset" : 7240732
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 24,
+            "byteOffset" : 7240768
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 24,
+            "byteOffset" : 7240792
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 7240816,
+            "uri" : "scene.bin"
+        }
+    ]
+}
